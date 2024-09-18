@@ -1,0 +1,3 @@
+otp:
+  expiration: 60000
+  sendOtpLimit: 3
